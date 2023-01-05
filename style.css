@@ -4,7 +4,7 @@
 }
 body{
     overflow: hidden;
-    animation: shakebody linear .6s infinite;
+/*     animation: shakebody linear .6s infinite; */
 }
 .sky{
     height:100vh ;
